@@ -1,8 +1,13 @@
 {
     "name": "levellogger",
     "version": "0.0.1",
-    "description": "",
-    "keywords": "log, logger, level, console",
+    "description": "Levellogger is a simple console level which respects a simple kind of level. After the level off the logger has been set, all log entries 'below' this level do not get printed to the console.",
+    "keywords": [
+        "log",
+        "logger",
+        "level",
+        "console"
+    ],
     "author": {
       "name": "Daniel Wetzel",
       "email": "mail@danielkbx.com",
