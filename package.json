@@ -1,0 +1,18 @@
+{
+    "name": "levellogger",
+    "version": "0.0.1",
+    "description": "",
+    "keywords": "log, logger, level, console",
+    "author": {
+      "name": "Daniel Wetzel",
+      "email": "mail@danielkbx.com",
+      "url": "http://danielkbx.com"
+    },
+    "engines": {
+        "node": ">0.4.x"
+    },
+    "dependencies": {
+        "dateformat": ">= 1.0.0"
+    },
+    "main": ".levellogger.js"
+}
