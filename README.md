@@ -1,5 +1,5 @@
 # General
-Levellogger is a simple console level which respects a simple kind of level. There are five levels:
+Levellogger is a simple console logger which respects a simple kind of level. There are five levels:
 
 * CRITICAL
 * ERROR
