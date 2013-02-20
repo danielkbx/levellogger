@@ -14,5 +14,9 @@
     "dependencies": {
         "dateformat": ">= 1.0.0"
     },
-    "main": ".levellogger.js"
+    "main": "./lib/levellogger",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/danielkbx/levellogger"
+    }
 }
