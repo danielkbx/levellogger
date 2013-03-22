@@ -1,6 +1,6 @@
 {
     "name": "levellogger",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "description": "Levellogger is a simple console logger which respects a simple kind of level. After the level off the logger has been set, all log entries 'below' this level do not get printed to the console.",
     "keywords": [
         "log",
@@ -17,7 +17,8 @@
         "node": ">0.4.x"
     },
     "dependencies": {
-        "dateformat": ">= 1.0.0"
+        "dateformat": ">= 1.0.0",
+        "cli-color": ">= 0.2.2"
     },
     "main": "./lib/levellogger",
     "repository": {
